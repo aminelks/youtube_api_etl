@@ -1,0 +1,6 @@
+google-api-python-client
+pandas
+apache-airflow
+snowflake-connector-python
+snowflake-sqlalchemy
+apache-airflow-providers-snowflake
