@@ -12,5 +12,5 @@ This ETL pipeline retrieves data from the YouTube API and performs the following
 3. **Scheduling & Orchestration**: The entire ETL process is scheduled and monitored with Apache Airflow, running inside Docker containers for easy deployment.
 4. **Data Visualization**: Visualize and analyze the data using Google Looker Studio.
 
-**Dashboard : https://lookerstudio.google.com/reporting/ffb8a92a-41ce-46b1-ae4f-8c05c562201f
+**Dashboard** : https://lookerstudio.google.com/reporting/ffb8a92a-41ce-46b1-ae4f-8c05c562201f
 
